@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffkamau1
 - 👀 I’m interested in programming and creating cool projects
-- 🌱 I’m currently learning python, fastapi and oracle
+- 🌱 I’m currently learning python, fastapi, flask and react
 - 💞️ I’m looking to collaborate on any cool python backend projects
 - 📫 you can reach me on jeffkamau116@gmail.com
 
